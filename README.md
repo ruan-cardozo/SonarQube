@@ -64,15 +64,15 @@ sonar.login=sqp_04ddb5f70760865c2a02b54f8a03da36881ed3f4
 
 ### **Projeto de Software Auditado:**
 
-Fora rodado para dois projetos open-source, sendo eles:
+Fora executado para dois projetos open-source, sendo eles:
 
 - **Nome do Projeto:** node-newrelic.
 - **Descrição:** Um pacote que instrumenta seu projeto para monitoramento de desempenho com o New Relic.
-- **Link para o Repositório:** [Repositório no Github)](https://github.com/newrelic/node-newrelic).
-
+- **Link para o Repositório:** [Repositório no Github](https://github.com/newrelic/node-newrelic).
+---
 - **Nome do Projeto:** vscode.
 - **Descrição:** Editor de texto amplamente utilizado pelos desenvolvedores.
-- **Link para o Repositório:** [Repositório no Github)]([https://github.com/newrelic/node-newrelic](https://github.com/microsoft/vscode).
+- **Link para o Repositório:** [Repositório no Github](https://github.com/microsoft/vscode).
 
 ---
 
@@ -80,17 +80,21 @@ Fora rodado para dois projetos open-source, sendo eles:
 
 ### **Visão Geral dos Resultados:**
 
+#### node-newrelic
 ![image](https://github.com/user-attachments/assets/b3cc6bad-90ee-4b01-ae4f-28bf791bb4c8)
 
-Como relatado pelo print acima, no node-newrelic não foi encontrado nenhuma vulnerabilidade pelo scanner do sonarqube.
+No new relic não foi encontrado nenhuma vulnerabilidade pelo scanner do sonar.
+
+#### vscode
+![image](https://github.com/user-attachments/assets/fd848447-65f8-424b-9736-243c0e439e91)
+
+No vscode teve 5 vulnerabilidades críticas.
 
 ### **Risco Geral do Projeto node-newrelic:** Risco baixo pois não apresenta vulnerabilidades.
 ### **Risco Geral do Projeto vscode:** Risco médio pois apresenta 5 vulnerabilidades críticas.
 ---
 
 ## **2. Detalhamento das Vulnerabilidades**
-
-Liste cada vulnerabilidade identificada pela ferramenta de SAST.
 
 ### **Vulnerabilidade 1:**
 
