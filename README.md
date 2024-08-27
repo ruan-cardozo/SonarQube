@@ -105,7 +105,7 @@ No vscode teve 5 vulnerabilidades críticas.
 
 ![image](https://github.com/user-attachments/assets/f26929f8-384c-4ac7-bb7c-424dbc90a371)
 
-As outros vulnerabilidades são parecidas com a relatada acima, são problemas com a manipulação de funções que interagem com o DOM(Document Object Model). Abaixo segue os prints de todas as vulnerabilidades encontrados no projeto do vscode:
+As outras vulnerabilidades são parecidas com a relatada acima, são problemas com a manipulação de funções que interagem com o DOM(Document Object Model). Abaixo segue os prints de todas as vulnerabilidades encontrados no projeto do vscode:
 
 ![image](https://github.com/user-attachments/assets/ef2e1361-0a09-4f7f-8c09-8e75be396d24)
 
